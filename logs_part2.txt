@@ -1,0 +1,13 @@
+1566041 (HEAD -> main, origin/main) HEAD@{0}: merge develop: Merge made by the 'recursive' strategy.
+6adf4e2 HEAD@{1}: checkout: moving from develop to main
+48dedc4 (origin/feature5, origin/develop, feature5, develop) HEAD@{2}: merge feature5: Fast-forward
+70529d9 HEAD@{3}: checkout: moving from feature5 to develop
+48dedc4 (origin/feature5, origin/develop, feature5, develop) HEAD@{4}: rebase (finish): returning to refs/heads/feature5
+48dedc4 (origin/feature5, origin/develop, feature5, develop) HEAD@{5}: rebase (squash): i renamed this commit
+51b3ffd HEAD@{6}: rebase (squash): # This is a combination of 2 commits.
+3baa556 HEAD@{7}: rebase (start): checkout HEAD~3
+e575ff4 HEAD@{8}: commit: add some text 4
+d1f9a13 HEAD@{9}: commit: add some text 3
+3baa556 HEAD@{10}: commit: add some text 2
+70529d9 HEAD@{11}: checkout: moving from develop to feature5
+70529d9 HEAD@{12}: checkout: moving from main to develop
