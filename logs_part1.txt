@@ -1,0 +1,18 @@
+70529d9 (HEAD -> main, origin/main, origin/develop, develop) HEAD@{0}: merge develop: Fast-forward
+f499cc7 HEAD@{1}: checkout: moving from develop to main
+70529d9 (HEAD -> main, origin/main, origin/develop, develop) HEAD@{2}: rebase (finish): returning to refs/heads/develop
+70529d9 (HEAD -> main, origin/main, origin/develop, develop) HEAD@{3}: rebase (pick): resolved merge-conflict feature4
+90edff9 HEAD@{4}: rebase (pick): add Hello world
+b2fd72f HEAD@{5}: rebase (pick): add fourth img
+f499cc7 HEAD@{6}: rebase (start): checkout main
+ba784b7 (origin/feature4, feature4) HEAD@{7}: checkout: moving from main to develop
+f499cc7 HEAD@{8}: commit: add some js picture
+1537662 (origin/feature2, feature2) HEAD@{9}: checkout: moving from develop to main
+ba784b7 (origin/feature4, feature4) HEAD@{10}: merge feature4: Fast-forward
+b430293 (origin/feature3, feature3) HEAD@{11}: checkout: moving from feature4 to develop
+ba784b7 (origin/feature4, feature4) HEAD@{12}: rebase (continue) (finish): returning to refs/heads/feature4
+ba784b7 (origin/feature4, feature4) HEAD@{13}: commit: resolved merge-conflict feature4
+b430293 (origin/feature3, feature3) HEAD@{14}: rebase (start): checkout develop
+7cbc75e HEAD@{15}: checkout: moving from develop to feature4
+b430293 (origin/feature3, feature3) HEAD@{16}: merge feature3: Fast-forward
+f451434 HEAD@{17}: checkout: moving from feature3 to develop
